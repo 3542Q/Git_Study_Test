@@ -1,2 +1,2 @@
 # Git_Study_Test
-None
+This is my place for learning Git.
